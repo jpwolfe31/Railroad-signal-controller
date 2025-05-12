@@ -1,1 +1,1 @@
-Controller developed to power and control our railroad signal collection, including searchlight, color light, gyralight and wigwags.
+Controller developed to power and control our railroad signal collection, including searchlight, color light, gyralight and wigwags.  Originally developed in 1990 using an Intel 8749 with Intel 8243 output expanders.  Upgraded the 8749 to a Nano-ESP32 with iPhone control enabled by Blynk.  Happy to answer any questions.
